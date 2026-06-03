@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sriram B.Com CA</title>
+
+<style>
+body{
+    background:#f2f2f2;
+    font-family:Arial;
+    text-align:center;
+    padding:40px;
+}
+
+h1{
+    color:darkblue;
+    font-size:40px;
+}
+
+p{
+    font-size:20px;
+    color:#333;
+}
+
+.box{
+    background:white;
+    padding:20px;
+    border-radius:15px;
+    width:60%;
+    margin:auto;
+    box-shadow:0 0 10px gray;
+}
+
+button{
+    background:darkblue;
+    color:white;
+    padding:12px 25px;
+    border:none;
+    border-radius:10px;
+    font-size:18px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>Welcome to Sriram's B.Com CA Website 💻</h1>
+
+<p>
+B.Com with Computer Applications combines Commerce and Technology.
+</p>
+
+<p>
+Skills:
+<br>
+✅ Accounting
+<br>
+✅ Tally
+<br>
+✅ Advanced Excel
+<br>
+✅ Python
+<br>
+✅ Power BI
+</p>
+
+<button>Future Commerce Tech Student 🚀</button>
+
+</div>
+
+</body>
+</html>
