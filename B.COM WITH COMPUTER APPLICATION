@@ -1,153 +1,279 @@
 ```html
-<!-- EXTRA PAGE 11 -->
+<!-- ULTRA DETAILED B.COM WITH COMPUTER APPLICATIONS PAGE -->
+
+<style>
+
+body{
+    background:#f2f6ff;
+    font-family:Arial;
+    margin:0;
+    padding:0;
+}
+
+.section{
+    width:88%;
+    margin:auto;
+    margin-top:40px;
+    background:white;
+    padding:45px;
+    border-radius:25px;
+    box-shadow:0px 0px 15px gray;
+}
+
+.section h1{
+    text-align:center;
+    color:darkblue;
+    font-size:55px;
+}
+
+.section img{
+    width:25%;
+    display:block;
+    margin:auto;
+    border-radius:20px;
+    margin-top:30px;
+}
+
+.content{
+    margin-top:35px;
+    font-size:24px;
+    line-height:45px;
+    text-align:justify;
+    color:#333;
+}
+
+.box{
+    background:#edf4ff;
+    padding:30px;
+    border-left:10px solid darkblue;
+    border-radius:15px;
+    margin-top:40px;
+}
+
+.box h2{
+    color:darkblue;
+    font-size:38px;
+}
+
+.box p{
+    font-size:23px;
+    line-height:42px;
+}
+
+.future{
+    background:#fff4e6;
+    padding:30px;
+    border-left:10px solid orange;
+    border-radius:15px;
+    margin-top:40px;
+}
+
+.future h2{
+    color:#cc6600;
+    font-size:38px;
+}
+
+.future p{
+    font-size:23px;
+    line-height:42px;
+}
+
+button{
+    background:darkblue;
+    color:white;
+    border:none;
+    padding:18px 40px;
+    border-radius:12px;
+    font-size:24px;
+    display:block;
+    margin:auto;
+    margin-top:40px;
+    cursor:pointer;
+}
+
+.footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:25px;
+    margin-top:50px;
+    font-size:22px;
+}
+
+</style>
 
 <div class="section">
 
-<h2>🏦 Banking Sector</h2>
+<h1>🎓 B.Com with Computer Applications 💻</h1>
+
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3">
+
+<div class="content">
 
 <p>
-B.Com with Computer Applications students can work in private and government banks.
-They learn finance management, digital banking, online transactions, and customer support systems.
-</p>
 
-<img src="https://images.unsplash.com/photo-1556740749-887f6717d7e4">
+B.Com with Computer Applications is one of the most advanced and career-oriented undergraduate degree programs available for commerce students in today’s world.
+This course is specially designed for students who are interested in both Commerce and Technology.
+
+In the modern digital generation, businesses are completely dependent on computers, software applications, databases, and internet technologies.
+Because of this rapid technological growth, companies require employees who understand both business management and computer systems.
+
+B.Com with Computer Applications combines traditional commerce subjects with modern technical skills.
+Students learn accounting, finance, economics, taxation, banking, management, and business law along with computer programming, software tools, databases, office automation, and web technologies.
+
+This course provides both theoretical and practical knowledge.
+Students not only study concepts from textbooks but also gain hands-on experience in using software applications and computer systems.
+
+One of the biggest advantages of this course is versatility.
+Students become skilled in multiple areas such as business communication, accounting systems, computer applications, office management, and digital technologies.
+
+The course improves:
+<br><br>
+
+✅ Technical Skills <br>
+✅ Communication Skills <br>
+✅ Problem Solving Abilities <br>
+✅ Analytical Thinking <br>
+✅ Software Knowledge <br>
+✅ Business Understanding <br>
+✅ Professional Confidence <br>
+✅ Leadership Skills
+
+Students gain practical knowledge in:
+<br><br>
+
+💻 MS Office Applications <br>
+📊 Advanced Excel Functions <br>
+🧾 Tally Prime and GST <br>
+🌐 Web Designing <br>
+🖥️ Database Management Systems <br>
+📈 Power BI and Analytics <br>
+🐍 Python Programming Basics <br>
+📚 E-Commerce Applications <br>
+🏦 Banking Operations <br>
+📑 Office Automation Tools
+
+The course helps students understand how modern companies use technology for maintaining accounts, preparing financial reports, analyzing business data, managing customer information, and handling online transactions.
+
+Today, digital business systems have become very important.
+Most organizations use cloud computing, digital accounting software, online banking systems, automated payroll systems, and customer relationship management tools.
+This course prepares students for these modern business environments.
+
+Students who choose this course develop both business intelligence and technical knowledge.
+Because of this combination, they have better career opportunities compared to traditional commerce graduates.
+
+This course is ideal for students who:
+<br><br>
+
+🎯 Want professional business skills <br>
+💻 Love technology and computers <br>
+📚 Enjoy commerce subjects <br>
+🚀 Want high salary opportunities <br>
+🌍 Wish to work in multinational companies <br>
+🏢 Want office and management jobs <br>
+📈 Want career growth in modern industries
+
+</p>
 
 </div>
 
-<!-- EXTRA PAGE 12 -->
+<div class="box">
 
-<div class="section">
-
-<h2>📊 Data Analytics</h2>
+<h2>⭐ Importance of B.Com with Computer Applications</h2>
 
 <p>
-Students can learn Data Analytics using Excel, Power BI, and Python.
-Companies use data to make business decisions and improve profits.
-</p>
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71">
+B.Com with Computer Applications has become highly important because the world is moving towards digital technology and online business systems.
+
+The importance of this course includes:
+<br><br>
+
+• Combines Commerce and Technology together <br><br>
+
+• Provides modern industry-related skills <br><br>
+
+• Helps students understand digital business operations <br><br>
+
+• Increases employability in different sectors <br><br>
+
+• Provides practical knowledge instead of only theory <br><br>
+
+• Helps students learn important business software <br><br>
+
+• Improves communication and management abilities <br><br>
+
+• Creates strong opportunities in banking, finance, and IT sectors <br><br>
+
+• Supports students in future higher education programs <br><br>
+
+• Makes students industry-ready professionals 🌟
+
+</p>
 
 </div>
 
-<!-- EXTRA PAGE 13 -->
+<div class="future">
 
-<div class="section">
-
-<h2>🌐 Web Development</h2>
+<h2>🚀 Future Scope and Career Opportunities</h2>
 
 <p>
-Commerce students can also learn website development using HTML, CSS, and JavaScript.
-Web development helps businesses grow online and reach more customers.
-</p>
 
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6">
+The future scope of B.Com with Computer Applications is excellent because technology is growing rapidly in every field.
+
+Students can work in:
+<br><br>
+
+🏦 Banking Sector <br>
+💼 Finance Companies <br>
+🖥️ IT Industries <br>
+📊 Data Analytics Companies <br>
+🌐 E-Commerce Businesses <br>
+📈 Digital Marketing Agencies <br>
+🏢 Corporate Organizations <br>
+📑 Accounting Firms
+
+Popular Job Roles:
+<br><br>
+
+✅ Accountant <br>
+✅ Banking Executive <br>
+✅ Data Analyst <br>
+✅ GST Executive <br>
+✅ Office Administrator <br>
+✅ Financial Assistant <br>
+✅ Business Analyst <br>
+✅ Web Developer <br>
+✅ Software Support Executive <br>
+✅ Digital Marketing Executive
+
+Higher Study Opportunities:
+<br><br>
+
+🎓 MBA <br>
+🎓 MCA <br>
+🎓 M.Com <br>
+🎓 CA <br>
+🎓 CMA <br>
+🎓 Data Science Courses <br>
+🎓 Digital Marketing Courses
+
+Students can also become entrepreneurs and start their own businesses using digital technologies and online platforms.
+
+</p>
 
 </div>
-
-<!-- EXTRA PAGE 14 -->
-
-<div class="section">
-
-<h2>📈 Digital Marketing</h2>
-
-<p>
-Digital Marketing includes social media promotion, online advertisements, SEO, and content creation.
-It is one of the fastest growing career fields today.
-</p>
-
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f">
-
-</div>
-
-<!-- EXTRA PAGE 15 -->
-
-<div class="section">
-
-<h2>🧾 Accounting Software</h2>
-
-<p>
-Students learn accounting software like Tally Prime and ERP systems.
-These tools help businesses manage sales, GST, invoices, and reports efficiently.
-</p>
-
-<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f">
-
-</div>
-
-<!-- EXTRA PAGE 16 -->
-
-<div class="section">
-
-<h2>🏢 Office Management</h2>
-
-<p>
-Office Management skills include communication, teamwork, scheduling, presentations, and computer operations.
-These skills are useful in all business sectors.
-</p>
-
-<img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72">
-
-</div>
-
-<!-- EXTRA PAGE 17 -->
-
-<div class="section">
-
-<h2>💻 Programming Basics</h2>
-
-<p>
-Students can learn simple programming languages such as Python and C++.
-Programming improves logical thinking and technical knowledge.
-</p>
-
-<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4">
-
-</div>
-
-<!-- EXTRA PAGE 18 -->
-
-<div class="section">
-
-<h2>🎓 Higher Studies</h2>
-
-<p>
-After B.Com with Computer Applications, students can continue MBA, MCA, M.Com, CA, CMA, or professional certification courses.
-</p>
-
-<img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1">
-
-</div>
-
-<!-- EXTRA PAGE 19 -->
-
-<div class="section">
-
-<h2>🌍 Global Opportunities</h2>
-
-<p>
-Technology and commerce together create international career opportunities in IT companies, finance industries, startups, and multinational corporations.
-</p>
-
-<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a">
-
-</div>
-
-<!-- EXTRA PAGE 20 -->
-
-<div class="section">
-
-<h2>🚀 Conclusion</h2>
-
-<p>
-B.Com with Computer Applications is an excellent course for students interested in commerce and technology.
-It offers strong career opportunities and modern technical skills for the future.
-</p>
-
-<img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d">
 
 <button>
-Best Career Choice for Future 💙
+
+Future Commerce Tech Student 🚀
+
 </button>
+
+</div>
+
+<div class="footer">
+
+© 2026 Sriram | B.Com with Computer Applications Website 💻🌍
 
 </div>
 ```
