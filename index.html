@@ -1,106 +1,258 @@
 ```html
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>Sriram B.Com CA</title>
+
+<title>Sriram B.Com CA Website</title>
 
 <style>
 
 body{
     margin:0;
+    padding:0;
     font-family:Arial;
-    background:#f2f2f2;
+    background:#f0f4ff;
 }
 
+/* HEADER */
+
 .header{
-    background:linear-gradient(to right, darkblue, purple);
+    background:linear-gradient(to right,#00008b,#800080);
     color:white;
     text-align:center;
-    padding:40px;
+    padding:50px;
 }
 
 .header h1{
-    font-size:45px;
+    font-size:50px;
+    margin-bottom:10px;
 }
 
-.container{
-    width:80%;
-    margin:auto;
-    margin-top:30px;
+.header p{
+    font-size:22px;
 }
 
-.card{
-    background:white;
-    padding:25px;
-    border-radius:15px;
-    box-shadow:0px 0px 10px gray;
+/* NAVIGATION */
+
+.navbar{
+    background:black;
+    padding:15px;
     text-align:center;
 }
 
+.navbar a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    font-size:20px;
+}
+
+/* MAIN CONTAINER */
+
+.container{
+    width:85%;
+    margin:auto;
+    margin-top:40px;
+}
+
+/* CARD */
+
+.card{
+    background:white;
+    padding:30px;
+    border-radius:20px;
+    box-shadow:0px 0px 15px gray;
+    text-align:center;
+}
+
+/* IMAGE */
+
 .card img{
-    width:300px;
+    width:450px;
+    border-radius:20px;
+}
+
+/* ABOUT */
+
+.about{
+    margin-top:25px;
+    font-size:22px;
+    line-height:35px;
+    color:#333;
+}
+
+/* SKILLS */
+
+.skills{
+    margin-top:30px;
+}
+
+.skills h2{
+    color:darkblue;
+}
+
+.skills ul{
+    list-style:none;
+    font-size:22px;
+    line-height:45px;
+}
+
+/* CAREER */
+
+.career{
+    margin-top:40px;
+    background:#e6eeff;
+    padding:25px;
     border-radius:15px;
 }
 
-.skills{
-    margin-top:20px;
-    font-size:20px;
-    line-height:40px;
+.career h2{
+    color:darkblue;
 }
+
+.career p{
+    font-size:21px;
+    line-height:35px;
+}
+
+/* BUTTON */
 
 button{
     background:darkblue;
     color:white;
     border:none;
-    padding:15px 25px;
-    border-radius:10px;
-    font-size:18px;
-    margin-top:20px;
+    padding:15px 30px;
+    border-radius:12px;
+    font-size:20px;
+    margin-top:25px;
+    cursor:pointer;
 }
 
+/* FOOTER */
+
 .footer{
-    margin-top:40px;
     background:black;
     color:white;
     text-align:center;
-    padding:15px;
+    padding:20px;
+    margin-top:50px;
+    font-size:18px;
 }
 
 </style>
+
 </head>
 
 <body>
 
+<!-- HEADER -->
+
 <div class="header">
-    <h1>B.Com with Computer Applications 💻</h1>
-    <p>Welcome to Sriram's Website</p>
+
+<h1>B.Com with Computer Applications 💻</h1>
+
+<p>
+Commerce + Technology = Future Career Success 🚀
+</p>
+
 </div>
+
+<!-- NAVBAR -->
+
+<div class="navbar">
+
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Skills</a>
+<a href="#">Career</a>
+<a href="#">Contact</a>
+
+</div>
+
+<!-- MAIN CONTENT -->
 
 <div class="container">
 
 <div class="card">
 
-<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" alt="Computer">
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop" alt="Computer Image">
+
+<div class="about">
+
+<h2>About B.Com with Computer Applications</h2>
+
+<p>
+B.Com with Computer Applications is a modern commerce degree that combines business knowledge with computer technology. 
+Students learn accounting, finance, programming, software applications, and business management.
+This course helps students build careers in banking, IT companies, finance sectors, business analytics, and software industries.
+</p>
+
+</div>
+
+<!-- SKILLS -->
 
 <div class="skills">
-    ✅ Accounting <br>
-    ✅ Tally + GST <br>
-    ✅ Advanced Excel <br>
-    ✅ Python Basics <br>
-    ✅ Power BI <br>
-    ✅ Business & Technology
+
+<h2>Important Skills Learned 📚</h2>
+
+<ul>
+<li>✅ Financial Accounting</li>
+<li>✅ Tally + GST</li>
+<li>✅ Advanced Excel</li>
+<li>✅ MS Office</li>
+<li>✅ Web Designing</li>
+<li>✅ Python Basics</li>
+<li>✅ Power BI</li>
+<li>✅ Database Management</li>
+<li>✅ Business Communication</li>
+<li>✅ E-Commerce</li>
+</ul>
+
 </div>
 
-<button>Future Commerce Tech Student 🚀</button>
+<!-- CAREER -->
+
+<div class="career">
+
+<h2>Career Opportunities 🌟</h2>
+
+<p>
+After completing B.Com with Computer Applications, students can work as:
+<br><br>
+
+• Accountant <br>
+• Data Analyst <br>
+• Banking Staff <br>
+• Office Administrator <br>
+• GST Executive <br>
+• Financial Assistant <br>
+• Web Developer <br>
+• Business Analyst <br>
+• Software Support Staff <br>
+• Digital Marketing Executive
+</p>
+
+</div>
+
+<button>
+Future Commerce Tech Student 🚀
+</button>
 
 </div>
 
 </div>
+
+<!-- FOOTER -->
 
 <div class="footer">
-    Created by Sriram 🎵
+
+Created by Sriram 🎵 <br>
+B.Com with Computer Applications Website
+
 </div>
 
 </body>
+
 </html>
 ```
